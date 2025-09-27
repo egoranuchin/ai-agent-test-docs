@@ -15,8 +15,8 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        AI Agents were designed from the ground up to be easily installed and
+        used to get your workloads up and running quickly.
       </>
     ),
   },
@@ -25,18 +25,17 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        AI Agents Platform let you focus on your work, and we&apos;ll do the chores. Go
+        ahead and create your firs AI Agent.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Powered by No-Code',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Extend or customize your AI Agents by zero-code paradigm.
       </>
     ),
   },

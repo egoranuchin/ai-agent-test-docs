@@ -2,11 +2,14 @@
 
 We’ll build a personal assistant agent as an example. For that, we'll follow the steps in this recommended order:
 
-1. Add an AI Agent node;
-2. Connect the tools;
-3. Configure the tools;
-4. Decide on the environment;
-5. Fine-tune the agent.
+1. [Add an AI Agent node](#step-1-add-an-ai-agent);
+2. [Connect the tools](#step-2-connect-the-tools);
+3. [Configure the tools](#step-3-configure-tools);
+4. [Decide on the environment](#step-4-decide-on-the-environment);
+5. [Fine-tune the agent](#step-5-fine-tune-the-agent);
+6. [Write System Prompt](#step-6-write-system-prompt);
+7. [Choose model](#step-7-choose-model);
+8. [Connect responses](#step-8-connect-responses).
 
 ## Prerequisites
 
@@ -18,7 +21,7 @@ We’ll build a personal assistant agent as an example. For that, we'll follow t
 First, let's create an AI Agent node:
 
 1. Open the Latenode platform's web interface on the [**Scenarios tab**](https://app.latenode.com/scenarios) and click the ***Create a new scenario button***.
-2. On the new scenario's view, via the ***Edit*** button in the breadcrums navigation element, rename the scenario to `AI-Agent Personal Assistant` or any other perferred name.
+2. On the new scenario's view, via the ***Edit*** button in the breadcrumbs navigation element, rename the scenario to `AI-Agent Personal Assistant` or any other preferred name.
 3. Create an AI Agent node through clicking the ***Add a Node to Begin... button*** -> in the **Choose an app** window, select the ***AI Agent...*** option -> **AI Agent** action.
 4. In the opened **AI Agent** window, click the name of the agent and set it to a preferred value (for example `Stanley`).
 
@@ -133,3 +136,11 @@ Now test your agent:
 - Tell it to schedule a call and add it to your task tracker.
 
 👉 You’ll see the agent using Gmail, Calendar, and Todoist together, completing the workflow in one request.
+
+## Conclusion
+
+Instead of clicking around multiple services, you now manage everything through a single assistant that has access to Gmail, Calendar, Todoist, and more.  
+  
+Your personal assistant can execute requests faster than a human, and this is just a small glimpse of what it can do.  
+  
+👉 Experiment, try out more workflows, and keep refining.
