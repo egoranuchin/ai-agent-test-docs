@@ -2,46 +2,21 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Introduction
 
-Let's discover **Docusaurus in less than 5 minutes**.
+AI agents are quickly becoming one of the most fascinating parts of the artificial intelligence field. They’re rolling out fast, and it can sometimes feel like the world is moving ahead without you.
 
-## Getting Started
+When you look at demos or tutorials, they might seem overly complicated or too technical. But the reality is actually very different. Agents on Latenode, for example, are much simpler to grasp than you might think — even if you’ve never written a single line of code.
 
-Get started by **creating a new site**.
+In this guide, we’ll go step by step:
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+- What an agent is.
+- How it functions.
+- What kinds of tasks it can handle.
+- And finally, how you can build your very first agent in Latenode.
 
-### What you'll need
+The best part: **you won’t need to code at all**.
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+## Next Steps
 
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+You can get to know the [Core Concepts](./core-concepts) behind the Latenode's Agents system, or go straight to Building Your First Agent step-by-step guide.
