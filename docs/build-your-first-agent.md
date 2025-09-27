@@ -17,7 +17,7 @@ We’ll build a personal assistant agent as an example. For that, we'll follow t
 
 First, let's create an AI Agent node:
 
-1. Open the Latenode platform's web interface on the [**Scenarios tab**](app.latenode.com/scenarios) and click the ***Create a new scenario button***.
+1. Open the Latenode platform's web interface on the [**Scenarios tab**](https://app.latenode.com/scenarios) and click the ***Create a new scenario button***.
 2. On the new scenario's view, via the ***Edit*** button in the breadcrums navigation element, rename the scenario to `AI-Agent Personal Assistant` or any other perferred name.
 3. Create an AI Agent node through clicking the ***Add a Node to Begin... button*** -> in the **Choose an app** window, select the ***AI Agent...*** option -> **AI Agent** action.
 4. In the opened **AI Agent** window, click the name of the agent and set it to a preferred value (for example `Stanley`).
