@@ -13,14 +13,14 @@ We’ll build a personal assistant agent as an example. For that, we'll follow t
 
 ## Prerequisites
 
-- Logged-in account with the Latenode platform;
+- Logged-in account with the platform;
 - Appropriate amount of credits enough for performing the actions with AI agents.
 
 ## Step 1: Add an AI Agent
 
 First, let's create an AI Agent node:
 
-1. Open the Latenode platform's web interface on the [**Scenarios tab**](https://app.latenode.com/scenarios) and click the ***Create a new scenario button***.
+1. Open the platform's web interface on the **Scenarios tab** and click the ***Create a new scenario button***.
 2. On the new scenario's view, via the ***Edit*** button in the breadcrumbs navigation element, rename the scenario to `AI-Agent Personal Assistant` or any other preferred name.
 3. Create an AI Agent node through clicking the ***Add a Node to Begin... button*** -> in the **Choose an app** window, select the ***AI Agent...*** option -> **AI Agent** action.
 4. In the opened **AI Agent** window, click the name of the agent and set it to a preferred value (for example `Stanley`).
@@ -84,13 +84,13 @@ Repeat this for all tools with a warning.
 
 ## Step 4: Decide on the environment
 
-Every Latenode scenario starts with a trigger. Options: Run Once, Webhook, Email, Telegram.
+Every scenario starts with a trigger. Options: Run Once, Webhook, Email, Telegram.
 
 Example: use Telegram:
 
 - Create a Telegram bot with BotFather.
 - Get token.
-- Authorize token in Latenode.
+- Authorize token in the platform.
 - Add trigger node and “Send Message” reply node.
 - Store message and chat ID in variables.
 
@@ -112,7 +112,7 @@ Example: use Telegram:
   - **Tools** - List of available tools.
 
 - You can add sections like workflow, user context, or current time.
-- Use examples from Latenode’s documentation.
+- Use examples from the Platform's documentation.
 - Expect to iterate and refine over time.
 
 ## Step 7: Choose Model

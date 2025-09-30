@@ -12,7 +12,7 @@ In simple terms, an AI agent is a system that can:
 - Plan steps.
 - Take actions on its own, based on the information you provide.
 
-Agents in Latenode can:
+AI Agents can:
 
 - Manage entire workflows.
 - Call external tools, nodes, and functions.
@@ -22,7 +22,7 @@ Agents in Latenode can:
 
 ## Agents vs Automations
 
-You can create AI automations and AI agents in Latenode. These two are often confused, but they’re not the same.
+You can create AI automations and AI agents. These two are often confused, but they’re not the same.
 
 **Automations**:
 
@@ -43,7 +43,7 @@ Every agent is built from **three pieces**:
 2. Memory – the ability to recall past interactions or fetch context.
 3. Tools – how the agent acts in the real world (sending emails, triggering workflows, calling APIs, etc.).
 
-In Latenode, many tools are ready to use out of the box. For anything else, you can connect through an HTTP request node.
+Many tools are ready to use out of the box. For anything else, you can connect through an HTTP request node.
 
 👉 No matter how advanced, every agent is built from these **same three parts**.
 
@@ -61,7 +61,7 @@ As you get more comfortable, you can build multi-agent setups:
 
 ## What Can You Build?
 
-With Latenode agents you can build, for example:
+With AI agents you can build, for example:
 
 - A personal assistant that organizes your day.
 - A support manager.
